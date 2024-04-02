@@ -12,7 +12,7 @@ Find My Shift is a web-based Employee Management System designed to simplify the
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/find-my-shift.git`
+1. Clone the repository: `git clone https://github.com/ghstkillrD/find-my-shift.git`
 2. Install dependencies: (List any dependencies and how to install them)
 3. Set up the MySQL database: (Include instructions on setting up the database schema and connecting it to the application)
 4. Run the application: (Provide instructions on how to run the application locally)
