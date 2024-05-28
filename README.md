@@ -33,7 +33,3 @@ If you would like to contribute to this project, please follow these guidelines:
 - Commit your changes (`git commit -am 'Add some feature'`)
 - Push to the branch (`git push origin feature/your-feature`)
 - Create a new Pull Request
-
-## Acknowledgements
-
-- Include any acknowledgements here, such as libraries or resources used in the project.
